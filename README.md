@@ -21,7 +21,7 @@ Marketing managers invest budgets across multiple campaign channels and campaign
 - Which customer behaviors influence conversion?
 - How should marketing budgets be reallocated for better ROI?
 
- ## Dataset
+## Dataset
 
 The dataset contains approximately 8,000 customer records including:
 - Customer Demographics
@@ -34,7 +34,11 @@ The dataset contains approximately 8,000 customer records including:
 - Marketing Spend
 - Conversion Metrics
 
-  ## Dashboard Architecture & Key Visuals
-  ### Dashboard 1 - Marketing Performance Overview
+## Dashboard Architecture & Key Visuals
+### Dashboard 1 - Marketing Performance Overview
 
 ![Dashboard 1](dashboard1.png)
+
+- Referral achieved the highest conversion rate.
+- PPC delivered strong campaign performance.
+- Conversion campaigns consistently outperformed awareness campaigns.
