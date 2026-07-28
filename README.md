@@ -1,10 +1,10 @@
-# Marketing Campaign Performance Dashboard
+# 📊 Marketing Campaign Performance Dashboard
 ## Tools Used
 
 - SQL Server
 - Power BI
 - DAX
-## Executive Summary
+## 📌 Executive Summary
 This project analyzes marketing campaign performance using SQL, Power BI, and DAX to identify the most effective marketing channels, understand customer conversion behavior, and recommend budget optimization strategies.
 
 The project is organized into three interactive dashboards:
@@ -12,7 +12,7 @@ The project is organized into three interactive dashboards:
 - Customer Behavior Analysis
 - Budget Optimization & Recommendations
 
-## Business Problem
+## ❓ Business Problem
 
 Marketing managers invest budgets across multiple campaign channels and campaign types, but it is often difficult to answer questions such as:
 - Which marketing channel generates the highest conversion rate?
