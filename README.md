@@ -40,10 +40,10 @@ The dataset contains approximately 8,000 customer records including:
 ![Dashboard 1](dashboard1.png)
 
 **Key Insights**
-- Referral và PPC là hai kênh marketing hiệu quả nhất, đạt Conversion Rate cao nhất (~88%) đồng thời đóng góp phần lớn lượng khách hàng chuyển đổi.
-- Conversion Campaign là loại chiến dịch có hiệu suất vượt trội trên tất cả các kênh, với Conversion Rate luôn trên 92%, trong đó SEO – Conversion đạt mức cao nhất (94.03%).
-- Social Media và Email tiêu tốn tỷ trọng ngân sách lớn nhưng mang lại hiệu quả chuyển đổi thấp hơn các kênh còn lại, cho thấy tiềm năng tối ưu phân bổ ngân sách.
-- Phân tích tổng thể cho thấy ngân sách marketing hiện tại chưa được phân bổ hoàn toàn theo hiệu quả chuyển đổi, tạo cơ hội cải thiện ROI thông qua tái phân bổ đầu tư.
+- Referral and PPC are the most effective marketing channels, achieving the highest Conversion Rates (approximately 88%) while contributing the largest share of converted customers.
+- Conversion Campaigns consistently outperform other campaign types across all channels, maintaining Conversion Rates above 92%, with SEO – Conversion achieving the highest rate (94.03%).
+- Social Media and Email consume a significant portion of the marketing budget but generate lower conversion performance than the other channels, indicating opportunities for budget optimization.
+- Overall analysis indicates that the current marketing budget is not fully allocated based on conversion performance, creating opportunities to improve ROI through budget reallocation.
 
 ---
 ### 👥 Dashboard 2 – Customer Conversion Insights
@@ -51,10 +51,10 @@ The dataset contains approximately 8,000 customer records including:
 ![Dashboard 2](dashboard2.png)
 
 **Key Insights**
-- Website engagement là yếu tố quan trọng nhất ảnh hưởng đến chuyển đổi; khách hàng xem từ 5–6 trang và ở lại website 6–10 phút có Conversion Rate trên 91%.
-- Nhóm khách hàng chuyển đổi có mức Website Visits, Email Engagement và Previous Purchases cao hơn đáng kể so với nhóm chưa chuyển đổi, cho thấy hành vi tương tác là chỉ báo mạnh cho khả năng mua hàng.
-- Khách hàng 35–44 tuổi với thu nhập Medium là phân khúc mang lại Conversion Rate cao nhất, phù hợp để ưu tiên trong các chiến dịch marketing.
-- Khách hàng quay lại (3–5 lần mua trước) có tỷ lệ chuyển đổi cao hơn khách hàng mới, khẳng định vai trò của chiến lược giữ chân khách hàng (Customer Retention).
+- Website engagement is the most important factor influencing conversion; customers who view 5–6 pages and spend 6–10 minutes on the website achieve Conversion Rates above 91%.
+- Converted customers demonstrate significantly higher Website Visits, Email Engagement, and Previous Purchases than non-converted customers, indicating that customer engagement is a strong predictor of purchase behavior.
+- Customers aged 35–44 with medium income represent the highest-converting customer segment, making them the priority target for future marketing campaigns.
+- Returning customers with 3–5 previous purchases achieve higher conversion rates than first-time customers, highlighting the importance of effective Customer Retention strategies.
 
 ---
 ### 💰 Dashboard 3 – Budget Optimization & Recommendations
@@ -62,10 +62,10 @@ The dataset contains approximately 8,000 customer records including:
 ![Dashboard 3](dashboard3.png)
 
 **Key Insights**
-- Referral, PPC và SEO là các kênh có hiệu quả đầu tư tốt nhất khi kết hợp Conversion Rate cao và Cost per Conversion thấp, phù hợp để ưu tiên tăng ngân sách.
-- PPC & Conversion là tổ hợp chiến dịch có hiệu quả chi phí cao nhất, tạo nhiều khách hàng chuyển đổi với mức CAC thấp hơn trung bình.
-- Email và Social Media có hiệu suất chuyển đổi thấp hoặc chi phí chuyển đổi cao hơn các kênh khác, cần được tối ưu hoặc giảm đầu tư.
-- Marketing Action Matrix cho thấy việc tái phân bổ ngân sách từ các kênh kém hiệu quả sang Referral, PPC và SEO sẽ giúp nâng cao hiệu quả sử dụng ngân sách và tối đa hóa kết quả marketing.
+- Referral, PPC, and SEO provide the best investment performance by combining high Conversion Rates with low Cost per Conversion, making them the highest-priority channels for budget expansion.
+- The PPC – Conversion campaign combination delivers the highest cost efficiency, generating a large number of converted customers while maintaining a Customer Acquisition Cost (CAC) below the overall average.
+- Email and Social Media either produce lower conversion performance or incur higher acquisition costs than the other channels, indicating that these channels should be optimized or receive reduced investment.
+- The Marketing Action Matrix suggests that reallocating budget from lower-performing channels to Referral, PPC, and SEO would improve budget efficiency and maximize overall marketing performance.
 
 
 
