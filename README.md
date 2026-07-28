@@ -35,7 +35,7 @@ The dataset contains approximately 8,000 customer records including:
 - Conversion Metrics
 
 ## Dashboard Architecture & Key Visuals
-### Dashboard 1 - Marketing Performance Overview
+📊 Dashboard 1 - Marketing Performance Overview
 
 ![Dashboard 1](dashboard1.png)
 
@@ -44,6 +44,4 @@ Key Insights
 - Conversion Campaign là loại chiến dịch có hiệu suất vượt trội trên tất cả các kênh, với Conversion Rate luôn trên 92%, trong đó SEO – Conversion đạt mức cao nhất (94.03%).
 - Social Media và Email tiêu tốn tỷ trọng ngân sách lớn nhưng mang lại hiệu quả chuyển đổi thấp hơn các kênh còn lại, cho thấy tiềm năng tối ưu phân bổ ngân sách.
 - Phân tích tổng thể cho thấy ngân sách marketing hiện tại chưa được phân bổ hoàn toàn theo hiệu quả chuyển đổi, tạo cơ hội cải thiện ROI thông qua tái phân bổ đầu tư.
-- Referral achieved the highest conversion rate.
-- PPC delivered strong campaign performance.
-- Conversion campaigns consistently outperformed awareness campaigns.
+
