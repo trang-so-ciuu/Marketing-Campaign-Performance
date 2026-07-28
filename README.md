@@ -33,3 +33,8 @@ The dataset contains approximately 8,000 customer records including:
 - Loyalty Points
 - Marketing Spend
 - Conversion Metrics
+
+  ## Dashboard Architecture & Key Visuals
+  ## Dashboard 1 - Marketing Performance Overview
+
+![Dashboard 1](dashboard1.png)
