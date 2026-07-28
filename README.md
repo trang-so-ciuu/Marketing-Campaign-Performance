@@ -4,20 +4,17 @@
 - SQL Server
 - Power BI
 - DAX
-- Power Query
 ## Executive Summary
 This project analyzes marketing campaign performance using SQL, Power BI, and DAX to identify the most effective marketing channels, understand customer conversion behavior, and recommend budget optimization strategies.
 
 The project is organized into three interactive dashboards:
-
 - Marketing Performance Overview
 - Customer Behavior Analysis
 - Budget Optimization & Recommendations
 
-  ## Business Problem
+## Business Problem
 
 Marketing managers invest budgets across multiple campaign channels and campaign types, but it is often difficult to answer questions such as:
-
 - Which marketing channel generates the highest conversion rate?
 - Which campaign type delivers the best performance?
 - Which customer segments are most likely to convert?
@@ -27,7 +24,6 @@ Marketing managers invest budgets across multiple campaign channels and campaign
  ## Dataset
 
 The dataset contains approximately 8,000 customer records including:
-
 - Customer Demographics
 - Campaign Information
 - Website Behavior
