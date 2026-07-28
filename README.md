@@ -68,7 +68,7 @@ The dataset contains approximately 8,000 customer records including:
 - Marketing Action Matrix cho thấy việc tái phân bổ ngân sách từ các kênh kém hiệu quả sang Referral, PPC và SEO sẽ giúp nâng cao hiệu quả sử dụng ngân sách và tối đa hóa kết quả marketing.
 
 ## 🎯 Actionable Recommendations
-- Tái Phân Bổ Ngân Sách (Budget Reallocation):
+Tái Phân Bổ Ngân Sách (Budget Reallocation):
 Cắt giảm 10–15% ngân sách từ hai kênh kém hiệu quả là Social Media và Email.
 Tăng ngân sách (Scale Up) cho Referral và PPC, đặc biệt tập trung dồn tiền vào các chiến dịch thuộc giai đoạn Conversion.
 - Tối Ưu Trải Nghiệm Website (CRO - Conversion Rate Optimization):
@@ -76,3 +76,42 @@ Tối ưu UI/UX để giữ chân người dùng vượt mốc 6 phút và xem �
 - Chiến Lược Targeting & Retention:
 Tập trung thông điệp tiếp thị vào nhóm khách hàng từ 35–44 tuổi (Thu nhập Trung bình).
 Đẩy mạnh các chương trình chăm sóc khách hàng cũ (Retention/Loyalty) nhằm khai thác nhóm khách hàng có 3–5 lượt mua trước đó.
+
+## 🎯 Actionable Recommendations
+
+Based on the analysis across the three dashboards, the following strategic recommendations are proposed to improve marketing performance and maximize budget efficiency.
+
+### 💰 1. Optimize Marketing Budget Allocation
+
+- Reallocate **10–15%** of the marketing budget from underperforming channels (**Social Media** and **Email**) to higher-performing channels.
+- Increase investment in **Referral** and **PPC**, particularly for **Conversion** campaigns, which consistently achieved the highest conversion rates and lower customer acquisition costs (CAC).
+- Continuously monitor Cost per Conversion (CAC) to ensure budget is allocated to the most efficient campaign-channel combinations.
+
+---
+
+### 🌐 2. Improve Website Engagement & Conversion Rate Optimization (CRO)
+
+- Enhance website UI/UX to encourage visitors to:
+  - Stay on the website for **more than 6 minutes**.
+  - View **at least 5 pages per session**.
+- Optimize landing pages, navigation, and call-to-action (CTA) placement to increase customer engagement and improve conversion rates.
+
+---
+
+### 👥 3. Strengthen Customer Targeting & Retention
+
+- Prioritize marketing campaigns targeting customers aged **35–44 years** with **medium income**, the highest-converting customer segment identified in the analysis.
+- Expand customer loyalty and retention programs for customers with **3–5 previous purchases**, as they demonstrate significantly higher conversion probabilities than first-time customers.
+- Increase personalized email campaigns and remarketing efforts to maintain long-term customer relationships and encourage repeat purchases.
+
+---
+
+### 📈 Expected Business Impact
+
+Implementing these recommendations is expected to:
+
+- Improve overall marketing ROI.
+- Reduce customer acquisition costs (CAC).
+- Increase conversion rates through better customer targeting.
+- Enhance long-term customer retention and lifetime value.
+- Support data-driven marketing budget allocation decisions.
