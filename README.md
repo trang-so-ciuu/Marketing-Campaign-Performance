@@ -67,15 +67,7 @@ The dataset contains approximately 8,000 customer records including:
 - Email và Social Media có hiệu suất chuyển đổi thấp hoặc chi phí chuyển đổi cao hơn các kênh khác, cần được tối ưu hoặc giảm đầu tư.
 - Marketing Action Matrix cho thấy việc tái phân bổ ngân sách từ các kênh kém hiệu quả sang Referral, PPC và SEO sẽ giúp nâng cao hiệu quả sử dụng ngân sách và tối đa hóa kết quả marketing.
 
-## 🎯 Actionable Recommendations
-Tái Phân Bổ Ngân Sách (Budget Reallocation):
-Cắt giảm 10–15% ngân sách từ hai kênh kém hiệu quả là Social Media và Email.
-Tăng ngân sách (Scale Up) cho Referral và PPC, đặc biệt tập trung dồn tiền vào các chiến dịch thuộc giai đoạn Conversion.
-- Tối Ưu Trải Nghiệm Website (CRO - Conversion Rate Optimization):
-Tối ưu UI/UX để giữ chân người dùng vượt mốc 6 phút và xem ít nhất 5 trang/phiên.
-- Chiến Lược Targeting & Retention:
-Tập trung thông điệp tiếp thị vào nhóm khách hàng từ 35–44 tuổi (Thu nhập Trung bình).
-Đẩy mạnh các chương trình chăm sóc khách hàng cũ (Retention/Loyalty) nhằm khai thác nhóm khách hàng có 3–5 lượt mua trước đó.
+
 
 ## 🎯 Actionable Recommendations
 
